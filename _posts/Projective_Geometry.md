@@ -6,5 +6,7 @@ title: "[1] Projective Geometry"
 
 해당 내용들은 서울대학교 수리과학부 현동훈 교수님의 '대수학특강' 수업과 'Multiple View Geometry in Computer Vision' 책을 참고하였습니다.
 
-#### (1) Camera coordinate and Homogenous representation
+#### (1-1) Camera coordinate and Homogenous representation
+
+
 
