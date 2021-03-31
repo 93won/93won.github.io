@@ -8,6 +8,4 @@ title: "[1] Projective Geometry"
 
 #### (1-1) Camera coordinate and Homogenous representation
 
-"[1] Projective Geometry"
-
 카메라는 3차원 공간상의 한 점을 2차원 평면(image plane)상의 한 점으로 투사(projective)한다.
