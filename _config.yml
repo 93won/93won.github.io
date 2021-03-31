@@ -283,11 +283,6 @@ defaults:
       
       
 # Math equation
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+
       
 remote_theme : mmistakes/minimal-mistakes
