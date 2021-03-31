@@ -10,4 +10,4 @@ title: "[1] Projective Geometry"
 
 카메라는 3차원 공간상의 한 점을 2차원 평면(image plane)상의 점으로 투사(projective)한다.
 
-![Camera](./figures/projective_geometry/camera.pdf)
+![Camera](../figures/projective_geometry/camera.pdf)
