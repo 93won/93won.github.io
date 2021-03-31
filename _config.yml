@@ -282,4 +282,11 @@ defaults:
       related: true
       
       
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+      
 remote_theme : mmistakes/minimal-mistakes
