@@ -283,6 +283,7 @@ defaults:
       
       
 # Math equation
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
