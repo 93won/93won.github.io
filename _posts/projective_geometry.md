@@ -15,6 +15,8 @@ comments: true
 ![Camera](../figures/projective_geometry/camera.JPG)
 
 
+$$\sum (\alpha \pm \beta)$$
+
 This formula $f(x) = x^2$ is an example.
 
 $$P^T$$
