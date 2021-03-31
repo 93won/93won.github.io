@@ -8,6 +8,9 @@ title: "[1] Projective Geometry"
 
 #### (1-1) Camera coordinate and Homogenous representation
 
-카메라는 3차원 공간상의 한 점을 2차원 평면(image plane)상의 점으로 투사(projective)한다.
+아래의 그림과 같이 카메라는 3차원 공간상의 한 점(point)을 2차원 이미지 평면(image plane)상의 점(projected point)으로 투사(projective)한다. 이 때 ray(초록색 직선)상의 모든 점들은 이미지 평면 상의 하나의 점으로 투사되므로 투영 공간(projective space)에서는 이 ray를 하나의 점으로 취급하며 이를 표현하기 위하여 homogeneous coordinate가 이용된다.
 
 ![Camera](../figures/projective_geometry/camera.JPG)
+
+
+$P^2$(2차원 projective space)는 $R^3$의 projective space이며 $P^2$에서 한 점의 homogeneous coordinate는 $[x y w]^T$이다.
