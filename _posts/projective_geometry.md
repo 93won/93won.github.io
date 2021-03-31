@@ -1,5 +1,10 @@
 ---
 title: "[1] Projective Geometry"
+tags:
+  - Blog
+  - MathJax
+  - Jekyll
+  - LaTeX
 use_math: true
 ---
 
