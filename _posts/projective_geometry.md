@@ -1,11 +1,7 @@
 ---
 title: "[1] Projective Geometry"
-tags:
-  - Blog
-  - MathJax
-  - Jekyll
-  - LaTeX
 use_math: true
+comments: true
 ---
 
 본 포스트는 학습을 위하여 작성한 것으로 내용상의 오류가 존재할 수 있습니다.
