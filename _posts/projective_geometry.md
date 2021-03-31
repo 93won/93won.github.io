@@ -13,4 +13,4 @@ title: "[1] Projective Geometry"
 ![Camera](../figures/projective_geometry/camera.JPG)
 
 
-$P^2$(2차원 projective space)는 $R^3$의 projective space이며 $P^2$에서 한 점의 homogeneous coordinate는 $[x y w]^T$이다.
+$$P^2$$(2차원 projective space)는 $$R^3$$의 projective space이며 $$P^2$$에서 한 점의 homogeneous coordinate는 $$[x y w]^T$$이다.
