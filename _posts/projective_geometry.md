@@ -18,6 +18,9 @@ use_math: true
 
 ![Camera](../figures/projective_geometry/camera.JPG)
 
+
+This formula $f(x) = x^2$ is an example.
+
 $$P^T$$
 
 $P^2$(2차원 projective space)는 $$R^3$$의 projective space이며 $P^2$에서 한 점의 homogeneous coordinate는 $[x y w]^T$이다.
